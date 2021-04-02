@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ### 🛠 Tech Stack
-![](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=Magento&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 
-<!--
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=Magento&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
 -->
 
 <!--
@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinee0us&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
 ### 📫 How to reach me
-![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinee0us@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinee0us@gmail.com)](mailto:jinee0us@gmail.com)
+-->
