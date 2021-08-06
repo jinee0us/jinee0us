@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinee0us&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinee0us@gmail.com)](mailto:jinee0us@gmail.com)
+<!-- ### 📫 How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinee0us@gmail.com)](mailto:jinee0us@gmail.com) -->
